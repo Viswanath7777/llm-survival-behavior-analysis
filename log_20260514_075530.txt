@@ -1,0 +1,288 @@
+
+================================
+DAY 1
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=100
+Hunger=30
+Thirst=30
+Energy=95
+
+================================
+
+
+================================
+DAY 2
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=100
+Hunger=40
+Thirst=40
+Energy=90
+
+================================
+
+
+================================
+DAY 3
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=100
+Hunger=50
+Thirst=50
+Energy=85
+
+================================
+
+
+================================
+DAY 4
+
+ACTION:
+explore
+
+RESULT:
+You found berries.
+
+STATE:
+Health=100
+Hunger=40
+Thirst=60
+Energy=80
+
+================================
+
+
+================================
+DAY 5
+
+ACTION:
+explore
+
+RESULT:
+You found a river.
+
+STATE:
+Health=100
+Hunger=50
+Thirst=50
+Energy=75
+
+================================
+
+
+================================
+DAY 6
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=100
+Hunger=60
+Thirst=60
+Energy=70
+
+================================
+
+
+================================
+DAY 7
+
+ACTION:
+explore
+
+RESULT:
+You found a river.
+
+STATE:
+Health=100
+Hunger=70
+Thirst=50
+Energy=65
+
+================================
+
+
+================================
+DAY 8
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=100
+Hunger=80
+Thirst=60
+Energy=60
+
+================================
+
+
+================================
+DAY 9
+
+ACTION:
+explore
+
+RESULT:
+You found nothing.
+
+STATE:
+Health=90
+Hunger=90
+Thirst=70
+Energy=55
+
+================================
+
+
+================================
+DAY 10
+
+ACTION:
+explore
+
+RESULT:
+You found berries.
+
+STATE:
+Health=90
+Hunger=80
+Thirst=80
+Energy=50
+
+================================
+
+
+================================
+DAY 11
+
+ACTION:
+explore
+
+RESULT:
+You found a river.
+
+STATE:
+Health=80
+Hunger=90
+Thirst=70
+Energy=45
+
+================================
+
+
+================================
+DAY 12
+
+ACTION:
+explore
+
+RESULT:
+You were attacked by an animal.
+
+STATE:
+Health=50
+Hunger=100
+Thirst=80
+Energy=40
+
+================================
+
+
+================================
+DAY 13
+
+ACTION:
+explore
+
+RESULT:
+You found a river.
+
+STATE:
+Health=40
+Hunger=100
+Thirst=70
+Energy=35
+
+================================
+
+
+================================
+DAY 14
+
+ACTION:
+explore
+
+RESULT:
+You found a river.
+
+STATE:
+Health=30
+Hunger=100
+Thirst=60
+Energy=30
+
+================================
+
+
+================================
+DAY 15
+
+ACTION:
+explore
+
+RESULT:
+You found berries.
+
+STATE:
+Health=20
+Hunger=90
+Thirst=70
+Energy=25
+
+================================
+
+
+================================
+DAY 16
+
+ACTION:
+explore
+
+RESULT:
+You were attacked by an animal.
+
+STATE:
+Health=-10
+Hunger=100
+Thirst=80
+Energy=20
+
+================================
+

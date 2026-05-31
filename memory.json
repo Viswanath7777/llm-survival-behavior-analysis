@@ -1,0 +1,10 @@
+[
+  "\nDay 4\nAction: explore\nResult: You found clean water. Some food spoiled.\n",
+  "\nDay 5\nAction: drink\nResult: You drank stored water.\n",
+  "\nDay 6\nAction: explore\nResult: You found clean water.\n",
+  "\nDay 7\nAction: explore\nResult: You were attacked while exploring and lost 27 health.\n",
+  "\nDay 8\nAction: drink\nResult: You drank stored water. A cold night reduced your health.\n",
+  "\nDay 9\nAction: explore\nResult: You explored but found nothing.\n",
+  "\nDay 10\nAction: drink\nResult: You have no water left. A cold night reduced your health.\n",
+  "\nDay 11\nAction: drink\nResult: You have no water left.\n"
+]
