@@ -21,7 +21,7 @@ How do prompt structure and environmental constraints influence survival-oriente
 ### Hardware
 
 * Intel i3 11th Generation CPU
-* 16 GB RAM
+* 8 GB RAM
 * Integrated Intel Graphics
 * Windows 11
 * No dedicated GPU
